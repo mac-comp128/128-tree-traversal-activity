@@ -1,3 +1,3 @@
-# Binary Search Tree Activity
+# Tree Traversal Activity
 
-Instructions are [here](https://docs.google.com/document/d/1ObZwXNFM19EoT-1xd4I6BE_cqTiXLSNXfCVhwGKfvis/edit?usp=sharing).
+Instructions are [here](https://docs.google.com/document/d/1Dib-DiPxj_cWZnnlv3uNO3FFpkKDa0greh5pEy9Rlh4/edit?usp=sharing).
